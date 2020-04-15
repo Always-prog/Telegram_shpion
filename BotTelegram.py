@@ -7,7 +7,7 @@ from pyautogui import screenshot
 
 
 token = input("введите токен бота: ")
-
+#
 
 
 def vopros(mess,msg):
